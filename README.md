@@ -23,4 +23,4 @@ AI-powered app that detects and redacts or highlights information (names, locati
 ---
 
 ## Example
-![Example Output](https://your-image-url.com/example.png)
+![Example Output](https://kappa.lol/6pLPRH)
