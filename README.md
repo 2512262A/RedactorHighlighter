@@ -28,6 +28,23 @@ AI-powered app that detects and redacts or highlights information (names, locati
 
 ---
 
+## How to Run
+
+```bash
+# Clone the repo
+git clone https://github.com/2512262A/RedactorHighlighter.git
+
+# move to the repo directory
+cd RedactorHighlighter
+
+#install all the requirements
+pip install -r requirements.txt
+
+# Run the app with streamlit
+streamlit run app.py
+```
+---
+
 ## Weakness
 
 it didnt work quite well with text that has english word in it
@@ -40,3 +57,4 @@ it didnt work quite well with text that has english word in it
 * Fine-Tune the BERT model
 * Consistent annomyzation to preserved identity across the document
 
+---
