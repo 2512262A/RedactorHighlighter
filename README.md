@@ -23,4 +23,20 @@ AI-powered app that detects and redacts or highlights information (names, locati
 ---
 
 ## Example
+
 ![Example Output](https://kappa.lol/6pLPRH)
+
+---
+
+## Weakness
+
+it didnt work quite well with text that has english word in it
+
+---
+
+## Future Works
+
+* OCR for PDF files
+* Fine-Tune the BERT model
+* Consistent annomyzation to preserved identity across the document
+
